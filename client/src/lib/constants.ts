@@ -4,10 +4,10 @@ import deluxeRoomImg from "@assets/generated_images/deluxe_room_with_view.png";
 import premiumRoomImg from "@assets/generated_images/royal_suite_interior.png";
 
 export const HOTEL_INFO = {
-  name: "The Royal Chettinad",
+  name: "Bay Woods",
   location: "Tamil Nadu, India",
   tagline: "Heritage Luxury in the Heart of Tamil Nadu",
-  description: "Experience the timeless elegance of Chettinad heritage fused with modern luxury. Located amidst the cultural grandeur of Tamil Nadu, The Royal Chettinad offers a sanctuary of peace, comfort, and royal hospitality.",
+  description: "Experience the timeless elegance of Chettinad heritage fused with modern luxury. Located amidst the cultural grandeur of Tamil Nadu, The Bay Woods offers a sanctuary of peace, comfort, and royal hospitality.",
   address: "12 Heritage Road, Karaikudi, Tamil Nadu 630001",
   phone: "+91 4565 223344",
   email: "reservations@royalchettinad.com",
